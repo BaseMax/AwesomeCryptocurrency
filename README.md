@@ -1,4 +1,4 @@
-# AwesomeCryptocurrency
+# Awesome List Cryptocurrency
 
 Awesome/Repo List of the cryptocurrencies in the github.
 
