@@ -905,3 +905,7 @@ Awesome/Repo List of the cryptocurrencies in the github.
 - https://github.com/cfromknecht/OZcoin
 - https://github.com/ArthurAnanda/ccxt-arbitrage-v1
 - [More...]
+
+## Blockchain Projects
+
+* [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Rewards vintage hardware (PowerPC G4, SPARC, 68K) for mining. AI agent economy with RTC tokens.
