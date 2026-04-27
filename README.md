@@ -905,4 +905,6 @@ Awesome/Repo List of the cryptocurrencies in the github.
 - https://github.com/cfromknecht/OZcoin
 - https://github.com/ArthurAnanda/ccxt-arbitrage-v1
 - [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Rewards vintage hardware (PowerPC G4, SPARC, 68K) for mining. AI agent economy with RTC tokens.
+- [halal-coin-screening](https://github.com/trustdraft-app/halal-coin-screening) - AAOIFI-aligned cryptocurrency screening framework. 267 coins, four-gate methodology (riba / gharar / maysir / haram-sector), 0–100 halal score, JSON CLI. Python, MIT, zero dependencies.
+- [halalcrypto-strategy-framework](https://github.com/trustdraft-app/halalcrypto-strategy-framework) - Abstract strategy interfaces for halal, spot-only crypto trading. Pure Python protocols for tier configs, signal sources, risk engines, and executors — no proprietary signal logic. Companion to halal-coin-screening. MIT.
 - [More...]
