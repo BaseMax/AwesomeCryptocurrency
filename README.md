@@ -906,4 +906,5 @@ Awesome/Repo List of the cryptocurrencies in the github.
 - https://github.com/ArthurAnanda/ccxt-arbitrage-v1
 - [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Rewards vintage hardware (PowerPC G4, SPARC, 68K) for mining. AI agent economy with RTC tokens.
 - [SolvoHQ/web3-discover-data](https://github.com/SolvoHQ/web3-discover-data) - CC0 dataset of currently-claimable web3 airdrops (chain, cost-floor, risk flag, deadline, "last verified" date); refreshed daily via GitHub Actions. Public discovery site at https://web3-discover.vercel.app.
+- [Vivuscoin](https://github.com/vivuscoin/vivuscoin) - Open-source SHA-256d proof-of-work coin (Bitcoin Core fork); Core 1.1 wallets for Windows, macOS and Linux.
 - [More...]
