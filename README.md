@@ -904,6 +904,7 @@ Awesome/Repo List of the cryptocurrencies in the github.
 - https://github.com/elct9620/mcoin
 - https://github.com/cfromknecht/OZcoin
 - https://github.com/ArthurAnanda/ccxt-arbitrage-v1
+- https://github.com/amirhossin14/spn-coin
 - [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Rewards vintage hardware (PowerPC G4, SPARC, 68K) for mining. AI agent economy with RTC tokens.
 - [SolvoHQ/web3-discover-data](https://github.com/SolvoHQ/web3-discover-data) - CC0 dataset of currently-claimable web3 airdrops (chain, cost-floor, risk flag, deadline, "last verified" date); refreshed daily via GitHub Actions. Public discovery site at https://web3-discover.vercel.app.
 - [More...]
