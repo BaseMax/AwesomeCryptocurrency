@@ -615,6 +615,7 @@ Awesome/Repo List of the cryptocurrencies in the github.
 - https://github.com/zulurepublic/liteIM
 - https://github.com/thecreakers/fulus
 - https://github.com/BlueWallet/BlueWallet
+- https://github.com/devdasx/oath-wallet
 - https://github.com/stegos/stegos
 - https://github.com/MetaMask/gaba
 - https://github.com/Ckyo/KoreaCoin
